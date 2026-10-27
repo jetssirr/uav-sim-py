@@ -1,0 +1,7 @@
+# Pinned versions for reproducible CI. End-user installs use the looser
+# bounds in pyproject.toml; this file is only consumed by .github/workflows.
+numpy==2.4.4
+scipy==1.17.1
+matplotlib==3.10.9
+pillow==12.2.0
+pytest==9.0.3
