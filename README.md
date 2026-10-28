@@ -10,7 +10,6 @@ classical mode identification, and an interactive 3D flight animation.
 
 Pure NumPy / SciPy / Matplotlib. No MATLAB required.
 
-![autopilot tracking](docs/figures/autopilot_tracking.png)
 
 70-second slice of a waypoint mission (wp2 → wp3 → L1 loiter):
 
