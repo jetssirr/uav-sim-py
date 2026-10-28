@@ -171,6 +171,4 @@ Technical references the implementation draws on:
   Simulation*, 3rd ed. (Wiley, 2015). Quaternion attitude kinematics and
   6-DOF EOM conventions.
 
-## License
 
-MIT. See [LICENSE](LICENSE).
